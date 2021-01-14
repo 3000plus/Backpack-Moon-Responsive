@@ -1,5 +1,8 @@
 @media (max-width:768px){
-  .responsive{
+  .small-devices-responsive{
     display: inline-block;
   }
+}
+.about-sec-img{
+  width:15%;
 }
